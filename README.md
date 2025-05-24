@@ -29,7 +29,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,php,laravel,mysql,postgres,docker,kubernetes,terraform,git,vscode,linux,angular,java,html,css,javascript,flutter,github,git,tailwind,postman,jest" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,php,laravel,mysql,postgres,docker,kubernetes,terraform,git,vscode,linux,angular,java,html,css,javascript,flutter,github,tailwind,postman,jest" />
 </p>
 
 ---
